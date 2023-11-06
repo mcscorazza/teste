@@ -8,7 +8,11 @@
 </head>
 <body>
     <div class="box">
-        <h1>TESTE DIV</h1>
+        <?php
+            for($i = 0;$i<10;$i++) {
+                echo "<h1>Contagem: ".$i."</h1>";
+            };
+        ?>
     </div>
 </body>
 </html>
