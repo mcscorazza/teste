@@ -12,12 +12,17 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     width: 400px;
     height: 300px;
     border: 1px #666 solid;
     background-color: #cccccc;
-    border-radius: 10px;
+    border-radius: 12px;
 }
