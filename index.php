@@ -15,15 +15,15 @@
         ?>
         <form action="POST">
             <div>
-                <label for="name"></label>
+                <label for="name">Nome:</label>
                 <input type="text" name="name" id="name">
             </div>
             <div>
-                <label for="email"></label>
+                <label for="email">E-mail:</label>
                 <input type="email" name="email" id="email">
             </div>
             <div>
-                <label for="pass"></label>
+                <label for="pass">Senha:</label>
                 <input type="password" name="pass" id="pass">
             </div>
         </form>
