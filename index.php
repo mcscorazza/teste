@@ -18,11 +18,11 @@
                 <label for="name">Nome:</label>
                 <input type="text" name="name" id="name">
             </div>
-            <div>
+            <div class="div-input">
                 <label for="email">E-mail:</label>
                 <input type="email" name="email" id="email">
             </div>
-            <div>
+            <div class="div-input">
                 <label for="pass">Senha:</label>
                 <input type="password" name="pass" id="pass">
             </div>
