@@ -13,6 +13,20 @@
                 echo "<h4>Contagem: ".$i."</h4><br>";
             };
         ?>
+        <form action="POST">
+            <div>
+                <label for="name"></label>
+                <input type="text" name="name" id="name">
+            </div>
+            <div>
+                <label for="email"></label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div>
+                <label for="pass"></label>
+                <input type="password" name="pass" id="pass">
+            </div>
+        </form>
     </div>
 </body>
 </html>
