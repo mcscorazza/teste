@@ -14,7 +14,7 @@
             };
         ?>
         <form action="POST">
-            <div>
+            <div class="div-input">
                 <label for="name">Nome:</label>
                 <input type="text" name="name" id="name">
             </div>
